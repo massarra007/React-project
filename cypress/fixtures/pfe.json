@@ -1,0 +1,24 @@
+{
+  "pfe": {
+    "title": "NEW PFE BY TEST",
+    "description": "this is a new pfe created by cypress",
+    "technologies": ["React", "Node", "Express"],
+    "societe": "isamm",
+    "type": "PFE",
+    "pays": "tunis",
+    "promotion": "2022-2023",
+    "startDate": "2023-04-02T00:00:00.000Z",
+    "endDate": "2023-06-02T00:00:00.000Z"
+  },
+  "update_pfe": {
+    "title": "updated PFE BY TEST",
+    "description": "this is a updt pfe updated by cypress",
+    "technologies": ["React"],
+    "societe": "isamm2",
+    "type": "PFE",
+    "pays": "tunis2",
+    "promotion": "2022-2023",
+    "startDate": "2023-04-02T00:00:00.000Z",
+    "endDate": "2023-06-02T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "student": {
+    "firstName": "hazem",
+    "lastName": "ben laseed",
+    "email": "hazembenlassed@gmail.com",
+    "phoneNumber": "11229966",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "sex": "MEN",
+    "classe": "ING",
+    "niveau": "2",
+    "numero_classe": "2",
+    "promotion": "2022-2023"
+  },
+  "studentUpdated": {
+    "firstName": "hazem2",
+    "lastName": "ben laseed2",
+    "email": "hazembenlassed2@gmail.com",
+    "phoneNumber": "11229962",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "sex": "MEN",
+    "classe": "ING",
+    "niveau": "3",
+    "numero_classe": "3",
+    "promotion": "2022-2023"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event": {
+    "eventDateDebut": "2020-01-02T00:00:00.000Z",
+    "eventDateFin": "2020-04-02T00:00:00.000Z",
+    "eventType": "Formation",
+    "description": "ffffffff",
+    "eventName": "formation node js",
+    "location": "technopole manouba",
+    "duration": "2",
+    "organizedBy": "Club Farah ISAMM"
+  },
+  "eventUpdated": {
+    "eventDateDebut": "2020-01-02",
+    "eventDateFin": "2020-01-04",
+    "eventType": "JPO",
+    "description": "ffffffff",
+    "eventName": "formation node js",
+    "location": "technopole manouba",
+    "duration": "5",
+    "organizedBy": "Club Farah ISAMM"
+  }
+}

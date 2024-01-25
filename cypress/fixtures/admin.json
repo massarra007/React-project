@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "firstName": "hatem",
+    "lastName": "ben echikh",
+    "birthDate": "2020-04-02T00:00:00.000Z",
+    "phoneNumber": "27853540",
+    "sex": "MEN",
+    "email": "amaar@gmail.com",
+    "permessions": ["cv"]
+  },
+  "adminUpdated": {
+    "firstName": "hatem",
+    "lastName": "ben echikh",
+    "birthDate": "2020-04-02T00:00:00.000Z",
+    "phoneNumber": "27853540",
+    "sex": "MEN",
+    "email": "amaar@gmail.com",
+    "permessions": ["cv", "student"]
+  }
+}

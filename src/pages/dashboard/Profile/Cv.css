@@ -1,0 +1,204 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2a2a2e;
+}
+
+.paper {
+  background-color: white;
+  display: flex;
+  width: 900px;
+  height: 1230px;
+  margin: 30px auto;
+  box-shadow: 0px 0px 10px black;
+}
+
+.part1,
+.part2 {
+  height: 100%;
+}
+
+.part1 {
+  background-color: #829aca;
+  width: 35%;
+  padding: 20px;
+  color: white;
+  font-family: "Roboto";
+}
+
+.img {
+  /* background: url("./img.png") center 40%; */
+  background-size: cover;
+  height: 220px;
+  width: 220px;
+  margin: 20px auto 20px auto;
+  border-radius: 50%;
+  /*border: solid 3px white;*/
+  box-shadow: 0px 0px 5px black;
+}
+
+.part1 h4 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 900;
+  margin: 20px 0px 15px 0px;
+}
+
+.part1 h5 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.part1 p {
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.part1 hr {
+  color: white;
+  background-color: white;
+  border: none;
+  outline: none;
+  height: 3px;
+  margin: 10px 0px;
+}
+
+.skill {
+  position: relative;
+  height: 20px;
+  margin: 10px 0px;
+}
+
+.skill h5 {
+  position: absolute;
+}
+
+.skill .rates {
+  position: absolute;
+  right: 0;
+}
+
+.r-1 {
+  display: inline-block;
+  margin: 0px 2px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.r-0 {
+  display: inline-block;
+  margin: 0px 2px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0);
+  border: solid 3px white;
+}
+
+.r-2 {
+  display: inline-block;
+  margin: 0px 2px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0);
+  border: solid 3px white;
+  position: relative;
+}
+.r-2::after {
+  display: inline-block;
+  content: "";
+  position: absolute;
+  height: 20px;
+  width: 9px;
+  background-color: white;
+  left: -2px;
+  top: -2.5px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+.part2 {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 65%;
+  padding: 30px;
+}
+
+.part2 h2 {
+  color: #545454;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.part2 .ital {
+  color: #969696;
+  font-size: 25px;
+  font-weight: 500;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.part2 hr {
+  background-color: #969696;
+  border: none;
+  outline: none;
+  height: 2px;
+  margin: 15px 0px;
+}
+
+.info {
+  color: #969696;
+  display: inline;
+  margin-right: 30px;
+}
+
+.icon {
+  transform: translateY(6px);
+}
+
+.university .icon {
+  transform: translateY(4px);
+}
+
+.Education p {
+  line-height: 1.7;
+}
+
+.Courses p {
+  line-height: 2.3;
+}
+
+.Experience p {
+  line-height: 1.7;
+}
+
+.part2 h3 {
+  color: #545454;
+  font-size: 25px;
+  font-weight: 900;
+  margin: 20px 0px 10px 0px;
+}
+
+.education,
+.experience {
+  font-size: 18px;
+  font-family: "Roboto";
+  color: #545454;
+  font-weight: 400;
+}
+
+.university,
+.post,
+.courses {
+  font-size: 19px;
+  font-family: "Roboto";
+  color: #545454;
+  font-weight: 900;
+}

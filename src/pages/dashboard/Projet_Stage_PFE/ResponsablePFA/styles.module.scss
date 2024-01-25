@@ -1,0 +1,88 @@
+.head {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .filt_tf {
+    width: 24%;
+  }
+}
+
+.body {
+  margin: 20px 0px 0px 0px;
+}
+
+.action_icon {
+  color: var(--main);
+  margin: 0px 3px;
+  cursor: pointer;
+}
+
+// CRUD PAGES
+
+.card {
+  padding: 20px;
+}
+
+.textField {
+  margin: 10px 0px !important;
+}
+
+.center_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  button {
+    height: 56px;
+  }
+}
+
+.show {
+  .part1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    .avatar {
+      transform: scale(3);
+      margin: 40px;
+    }
+
+    h3 {
+      font-size: 30px;
+      padding: 0px 0px 0px 10px;
+    }
+  }
+
+  .part2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    h4,
+    h5 {
+      margin: 10px 5px 10px 0px;
+      padding: 0px;
+    }
+
+    h4 {
+      font-size: 22px;
+      min-width: fit-content;
+    }
+
+    h5 {
+      font-size: 20px;
+      font-weight: 400;
+      text-align: left;
+    }
+  }
+}

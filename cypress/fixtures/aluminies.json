@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : "646223dfe64d8334a76862cd",
+        "firstName": "test",
+        "lastName": "alumini",
+        "userName": "50635155",
+        "email": "talelbriki.contact@gmail.com",
+        "password": "$2b$10$aKewxVtlWhxeh.FXC5OpR.7Cc/dXout/yXFl5yQc9SYbMkryVE2XW",
+        "phoneNumber": "50635155",
+        "birthDate": "1999-01-13",
+        "profilImage": "https://res.cloudinary.com/hatem/image/upload/v1665754561/weshield/llkdvocybapq0wajqh19.png",
+        "sex": "MEN",
+        "role": "ALUMINIE",
+        "promotion": "2022-2023",
+        "isPublic": true,
+        "diplome": "LICENSE APPLIQUE EN INFO",
+        "diplomeDate": null,
+        "course": [],
+        "permessions": [],
+    
+        "isValide": false
+    }
+]

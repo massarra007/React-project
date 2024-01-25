@@ -1,0 +1,52 @@
+//--------------------------- FONTS ------------------------
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg);
+}
+* {
+  box-sizing: border-box;
+  // font-family: "Montserrat";
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  // height: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--secondary);
+  // border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b182f00;
+}
+
+:root {
+  --bg: #fafafa;
+
+  --main: #4580f0;
+  --secondary: #4580f0;
+
+  --red: #ea5455;
+  --blue: #00cfe8;
+  --green: #28c76f;
+  --orange: #ffa248;
+  --purple: #7367f0;
+
+  --red-bg: #fceaea;
+  --blue-bg: #e0f9fc;
+  --green-bg: #e5f8ed;
+  --orange-bg: #fff3e8;
+  --purple-bg: #eeedfd;
+}

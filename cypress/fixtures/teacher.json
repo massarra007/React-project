@@ -1,0 +1,38 @@
+{
+  "teacher": {
+    "firstName": "farah",
+    "lastName": "chourou",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "phoneNumber": "2789556",
+    "sex": "WOMEN",
+    "email": "chouroddufarah2@gmail.com",
+    "course": ["math", "algo", "BD"]
+  },
+  "teacherUpdated": {
+    "firstName": "farah",
+    "lastName": "chourou123",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "phoneNumber": "2789556",
+    "sex": "WOMEN",
+    "email": "chouroddufarah@gmail.com",
+    "course": ["math", "algo", "BD"]
+  },
+  "responsible": {
+    "firstName": "ilhem",
+    "lastName": "guesem",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "phoneNumber": "27899553",
+    "sex": "WOMEN",
+    "email": "chouroddufarah2@gmail.com",
+    "course": ["math", "algo", "BD"]
+  },
+  "responsibleUpdated": {
+    "firstName": "ilhem",
+    "lastName": "guesem",
+    "birthDate": "1999-04-02T00:00:00.000Z",
+    "phoneNumber": "27899553",
+    "sex": "WOMEN",
+    "email": "ilhem@gmail.com",
+    "course": ["math", "algo", "BD"]
+  }
+}

@@ -1,0 +1,40 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow-y: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.show {
+  height: 100%;
+  width: 82%;
+  background-color: var(--bg);
+  overflow-y: hidden;
+}
+
+.reduced {
+  width: 95%;
+}
+
+.content {
+  width: 100%;
+  height: calc(100% - 60px);
+  max-height: calc(100% - 60px);
+  padding: 25px;
+  overflow-y: auto;
+}
+
+.container {
+  min-height: 100%;
+  width: 100%;
+  padding: 16px;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px,
+    rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+}

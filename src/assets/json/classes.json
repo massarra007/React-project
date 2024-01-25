@@ -1,0 +1,122 @@
+[
+  {
+    "name": "L.IM",
+    "diplome": "L.IM diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2, 3] },
+      { "value": 2, "classes": [1, 2, 3] },
+      { "value": 3, "classes": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "L.BD",
+    "diplome": "L.BD diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2, 3] },
+      { "value": 2, "classes": [1, 2, 3] },
+      { "value": 3, "classes": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "L.MIME",
+    "diplome": "L.MIME diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2, 3] },
+      { "value": 2, "classes": [1, 2, 3] },
+      { "value": 3, "classes": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "L.CM",
+    "diplome": "L.CM diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2, 3, 4, 5, 6] },
+      { "value": 2, "classes": [1, 2, 3, 4, 5, 6] },
+      { "value": 3, "classes": [1, 2, 3, 4, 5, 6] }
+    ]
+  },
+  {
+    "name": "L.CAV",
+    "diplome": "L.CAV diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] },
+      { "value": 3, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "L.coco 3D",
+    "diplome": "L.coco 3D diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] },
+      { "value": 3, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "L.coco JV",
+    "diplome": "L.coco JV diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] },
+      { "value": 3, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.DSIR",
+    "diplome": "M.DSIR diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.IDIAG",
+    "diplome": "M.IDIAG diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.TMAC",
+    "diplome": "M.TMAC diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.ING M",
+    "diplome": "M.ING M diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.P & AR",
+    "diplome": "M.P & AR diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "M.DCA",
+    "diplome": "M.DCA diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] }
+    ]
+  },
+  {
+    "name": "ING",
+    "diplome": "ING diplome",
+    "niveau": [
+      { "value": 1, "classes": [1, 2] },
+      { "value": 2, "classes": [1, 2] },
+      { "value": 3, "classes": [1, 2] }
+    ]
+  }
+]

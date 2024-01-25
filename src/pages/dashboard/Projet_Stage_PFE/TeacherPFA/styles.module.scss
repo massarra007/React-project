@@ -1,0 +1,52 @@
+.head {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .filt_tf {
+    width: 24%;
+  }
+}
+
+.body {
+  margin: 20px 0px 0px 0px;
+}
+
+.action_icon {
+  color: var(--main);
+  margin: 0px 3px;
+  cursor: pointer;
+}
+
+// CRUD PAGES
+
+.card {
+  padding: 20px;
+}
+
+.textField {
+  margin: 10px 0px !important;
+}
+
+.center_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  button {
+    height: 56px;
+  }
+}
+
+// tech
+.technology-list span {
+  display: block;
+}
